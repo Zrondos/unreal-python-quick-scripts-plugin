@@ -5,8 +5,8 @@ This Unreal Engine plugin adds a "Quick Scripts" dropdown menu to the main menu 
 <img src="./Resources/demo.gif">
 
 ## Installation
-1. Download this project and unzip it
-2. Copy the Unzipped folder into your Unreal Engine projects "/Plugins" folder
+1. Download the "Content" folder and unzip it
+2. Copy the unzipped folder into your Unreal Engine projects "/Plugins" folder
 3. Install and enable the <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/scripting-the-editor-using-python?application_version=4.27#setupyourprojecttousepython">"Python Script Editor Plugin"</a> for your project.
 4. Enable the Quick Scripts Plugin (Edit -> Plugins -> Installed -> tool)
 5. Restart Unreal
