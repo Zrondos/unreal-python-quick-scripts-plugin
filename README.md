@@ -1,6 +1,6 @@
 # Unreal Engine Quick Scripts Plugin
 
-This Unreal Engine plugin adds a "Quick Scripts" dropdown menu to the main menu bar. This dropdown menu allows you to quickly run Python scripts located in your projects "/Scripts/Python" directory.
+This Unreal Engine plugin adds a **"Quick Scripts"** dropdown menu to the main menu bar. This dropdown menu allows you to quickly run Python scripts located in your projects `/Scripts/Python` directory.
 
 <img src="./Resources/demo.gif">
 
